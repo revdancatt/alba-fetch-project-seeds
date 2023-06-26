@@ -1,0 +1,30 @@
+{
+  "name": "alba-fetch-project-seeds",
+  "version": "0.0.1",
+  "description": "A workaround to fetch the seeds for an Alba project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/alba-fetch-project-seeds.git"
+  },
+  "keywords": [
+    "alba",
+    "genartclub"
+  ],
+  "author": "revdancatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/alba-fetch-project-seeds/issues"
+  },
+  "homepage": "https://github.com/revdancatt/alba-fetch-project-seeds#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
